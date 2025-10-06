@@ -13,7 +13,7 @@ A comprehensive full-stack finance tracking application with user authentication
 
 ## Demo
 ### User Authentication
-<img src="signup.gif" alt="User Signup Demo" width="600"/>
+<img src="signin.gif" alt="User Signup Demo" width="600"/>
 
 ### Transaction Management
 <img src="transactions.gif" alt="Transaction Features Demo" width="600"/>
